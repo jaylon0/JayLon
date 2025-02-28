@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github-contribution-grid-snake](C:\Users\JayLon\Desktop\github-contribution-grid-snake.gif)
+![github-contribution-grid-snake](assets/github-contribution-grid-snake.gif)
 
 
 ### About
